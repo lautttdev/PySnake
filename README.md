@@ -24,6 +24,8 @@ Every mechanic was implemented from scratch.
 ## Controls
 - WASD or Arrow keys to move.
 
+## Installation
+
 ```
 git clone https://github.com/lautttdev/PySnake.git
 cd PythonInvaders
